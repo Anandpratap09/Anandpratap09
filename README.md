@@ -1,4 +1,10 @@
 ## Hi there 👋
+•	Enterprise Data & AI Leadership: Over 15 years of experience designing and delivering large-scale, AI-powered data platforms across banking, healthcare, and digital domains, driving measurable business outcomes. 
+•	Cloud-Native & Modern Data Architectures: Proven expertise in architecting cloud-native ecosystems leveraging Snowflake, Databricks, Azure, and AWS, with a strong focus on scalability, performance optimization, and cost efficiency.
+•	Architected and deployed enterprise-grade AI-native solutions leveraging Generative AI, Conversational AI, Agentic AI, AI Agents, Lang Chain, Lang Graph, and Snowflake Cortex AI to enable intelligent workflow automation, AI agent fine-tuning, and large-scale automation of repetitive ETL, data transformation, and business decision workflows.
+•	Led AI-led automation initiatives across cloud data ecosystems by integrating Python, SQL, Snowflake, Azure, and AWS-based data pipelines, driving intelligent orchestration, real-time analytics, and automated insight generation through AI-powered agents, predictive models, and conversational interfaces.
+•	Strategic Transformation & Governance: Led multi-million-dollar global data programs, implementing governance-driven architectures, real-time analytics pipelines, and Data Vault modeling to align data strategy with enterprise objectives. 
+•	Innovation in Analytics & AI: Delivered machine learning and predictive analytics solutions improving accuracy, enabling near real-time decision-making, and supporting regulatory compliance across diverse domains. 
 
 <!--
 **Anandpratap09/Anandpratap09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
